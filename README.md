@@ -1,2 +1,2 @@
 # Accessibility quiz
->In this i have added questions of HTML , CSS and JavaScript .
+>In this i have added questions of HTML and CSS.
