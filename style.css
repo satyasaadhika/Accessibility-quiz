@@ -25,8 +25,16 @@ header {
 #logo {
     width: max(100px, 18vw);
     background-color: #0a0a23;
-    aspect-ratio: 35 / 4;
+    aspect-ratio: 30 / 5;
     padding: 0.4rem;
+}
+@media only screen and (max-width:600px){
+    #logo{
+        display: none;
+    }
+    button {
+    color: #2613b2;
+    }
 }
   
 h1 {
